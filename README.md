@@ -16,7 +16,7 @@ This project is a web scraping tool designed to scrape book information from a s
 a)	You Can find a file name Application.zip download it<br> 
 b)	Extract the Folder and open Application Folder<br> 
 c)	Run the exe file named “Book”<br>
-d)	If Case Windows defender or any other similar protection <br>
+d)	In Case Windows defender or any other similar protection <br>
    doesn’t allow try turning it off or choose RUN ANYWAY<br>
 e)	Else Download the Project files From the repository and Run inside a Python 3 Compatible IDE. 
 
