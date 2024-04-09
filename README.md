@@ -14,7 +14,7 @@ This project is a web scraping tool designed to scrape book information from a s
 
 ## Description:
 
-### Installation: 
+### REQUIREMNETS: 
 
 #### Software Requirements
 - For running code: 
@@ -42,6 +42,7 @@ This project is a web scraping tool designed to scrape book information from a s
 2. And Run in Good Python Enviroment<br>
 
 ## Installation <br>
+- open the Book Scrape folder from the repository
 a)	You Can find a file name Application.zip download it<br> 
 b)	Extract the Folder and open Application Folder<br> 
 c)	Run the exe file named “Book”<br>
@@ -49,7 +50,7 @@ d)	In Case Windows defender or any other similar protection <br>
    doesn’t allow try turning it off or choose RUN ANYWAY<br>
 e)	Else Download the Project files From the repository and Run inside a Python 3 Compatible IDE. 
 
-## (Recommended)
+## (Recommended Installation)
 1. Clone the repository to your local machine:<br>
 2. And Run in Good Python Enviroment<br>
 
