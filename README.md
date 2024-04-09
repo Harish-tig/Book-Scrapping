@@ -3,6 +3,34 @@
 
 This project is a web scraping tool designed to scrape book information from a specific website ([Books to Scrape](https://books.toscrape.com/)).<br> It allows users to search for books by genre, rating, or view all books. Additionally, users can add books to their wishlist and manage their wishlist.
 
+## Description:
+
+●	Installation: 
+○	Software Requirements
+a)	For running code 
+1.	Python 3
+2.	IDE Pycharm (Completely Optional Provides Excellent UI)
+3.	Install requests, pandas, bs4, re, colorama, pymongo using pip
+4.	(re and colorama usually comes built in with Python 3)
+b)	Mongo DB 
+c)	Windows 11 OS For Running .exe File.
+
+●	Hardware Requirements 
+a)	Any Machine capable of Running Python 3
+and a Strong internet Connection.
+
+●	Execution: 
+a)	Read the Software requirements first.
+b)	Open the Below Provided Repository
+c)	https://github.com/Harish-tig/Book-Scrapping
+d)	Read the Readme File or Open the Book Scrapping folder
+e)	You Can find a file name Application.zip download it 
+f)	Extract the Folder and open Application Folder 
+g)	Run the exe file named “Book.exe” (consider Software requirement c))
+h)	In Case Windows defender or any other similar protection 
+doesn’t allow try turning it off or choose RUN ANYWAY
+i)	Recommended--> Download/CLONE the Project files/Repository From the Above Repository and Run inside a Python 3 Compatible IDE. 
+
 ## Features
 
 - Search books by genre
